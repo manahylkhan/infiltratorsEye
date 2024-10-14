@@ -12,7 +12,7 @@ pip install requests
 pip install pywin32
 # Step 3: Set Up Your Script
 1. Create a New Directory: Create a folder where you will store your script and any required files. For example, create a folder named `SpyTool` on your Desktop.
-2. Create the Script File: Open a text editor (like Notepad or VS Code) and copy your provided script into it. Save the file as `spy_tool.py` in the `SpyTool` directory.
+2. Create the Script File: Open a text editor (like Notepad or VS Code) and copy your provided script into it. Save the file as .py extension.
 3. Update Email Credentials: Replace the `email_address` and `password` variables in your script with your actual email address and password. Make sure to use an app password if you're using Gmail, as regular passwords may not work due to security settings.
 # Step 4: Configure Email Settings
 If you are using Gmail, you might need to enable "Less secure app access" or use an App Password. Here’s how:
@@ -24,7 +24,7 @@ If you are using Gmail, you might need to enable "Less secure app access" or use
 cd path\to\SpyTool
    Replace `path\to\SpyTool` with the actual path to your folder.
 2. Run the Script: Execute the script using Python:
-python spy_tool.py
+python tool.py
 # Step 6: Monitor and Test
 - The script will start collecting data as specified. Make sure to monitor its behavior and ensure it works as intended.
 - Test the functionality of collecting keystrokes, screenshots, clipboard data, and sending emails.
