@@ -32,5 +32,6 @@ python tool.py
 - Ethical Use: Ensure you have permission to run this script on any machine. Unauthorized use of such tools can lead to legal consequences.
 - Antivirus/Firewall: Some antivirus or firewall programs may flag this script as malicious. You may need to create exceptions or temporarily disable these protections while testing.
 - Running in Background: If you want the script to run in the background, consider converting it to an executable using a tool like `PyInstaller`.
-
+# Limitations:
+This tool is specifically designed for **Windows** only
 
